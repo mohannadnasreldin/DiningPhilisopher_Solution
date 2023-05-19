@@ -1,4 +1,4 @@
-# DiningPhilisopher_Solution
+# Dining Philisopher Solution
 The dining philosopher problem is solved using resource allocation techniques to ensure mutual exclusion, preventing deadlocks or starvation.
 
 The Dining Philosophers problem is a classic example of a problem in concurrent programming. It was originally formulated by Edsger Dijkstra in 1965, and the problem is often used to illustrate the challenges of developing correct and efficient concurrent systems.
