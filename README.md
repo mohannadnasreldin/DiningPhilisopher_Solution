@@ -40,4 +40,4 @@ Contributions to this project are welcome! If you find any bugs, have feature re
 
 Please note that this project is intended for educational and demonstration purposes only. While the solution strives to address the Dining Philosopher Problem, it may not be suitable for production environments without further customization or consideration of specific requirements.
 
-For any further inquiries or support, feel free to reach out to the project maintainer at `mohannadalshrif126@gmail.com`. We hope this solution provides insights into resource allocation techniques and concurrency control in solving the Dining Philosopher Problem.
+For any further inquiries or support, feel free to reach out to the project maintainer at `mohannadnasr.20@gmail.com`. We hope this solution provides insights into resource allocation techniques and concurrency control in solving the Dining Philosopher Problem.
